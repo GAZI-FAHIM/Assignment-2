@@ -157,7 +157,7 @@
 }
 
 .zabo-plant{
-    background-image: url('/assets/deal-bloom.png');
+    background-image: url('./assets/deal-bloom.png');
     max-width: 540px;
     height: 206px;
     width: 366px;
@@ -166,7 +166,7 @@
     
 }
 .ana-plant{
-    background-image: url('/assets/deal-ana.png');
+    background-image: url('./assets/deal-ana.png');
     max-width: 540px;
     height: 206px;
     width: 366px;
@@ -180,7 +180,7 @@
 }
 
 .Zabo-plant{
-    background-image: url('/assets/deal-zabo.png');
+    background-image: url('./assets/deal-zabo.png');
     max-width: 540px;
     height:412px ;
     width: 732px;
@@ -205,7 +205,7 @@
 
 }
 .join{
-    background-image: url('/assets/news-letter-bg.png');
+    background-image: url('./assets/news-letter-bg.png');
     height: 540px;
 }
 
