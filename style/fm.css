@@ -150,7 +150,11 @@
     margin: 30px;
     padding-top: 30px;
 }
-
+.subscribe{
+    color: black;
+    list-style: none;
+    text-decoration: none;
+}
 
 .zabo-plant{
     background-image: url('/assets/deal-bloom.png');
@@ -192,6 +196,17 @@
 .divide{
     gap: 100px;
     padding-top: 40px;
+}
+.bunch{
+    align-items: center;
+    text-align: center;
+    margin: 100px;
+    padding-top: 250px;
+
+}
+.join{
+    background-image: url('/assets/news-letter-bg.png');
+    height: 540px;
 }
 @media screen and (max-width: 576px) {
     .navitem{
